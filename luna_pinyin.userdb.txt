@@ -1,0 +1,7 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	1
+#@/user_id	483b5b7f-e8d1-42c8-b0a4-d5adab0bef06
+zen me 	怎么	c=1 d=1 t=1

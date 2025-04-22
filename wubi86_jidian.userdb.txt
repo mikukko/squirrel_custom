@@ -1,0 +1,50 @@
+# Rime user dictionary
+#@/db_name	wubi86_jidian
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	61
+#@/user_id	483b5b7f-e8d1-42c8-b0a4-d5adab0bef06
+asdb 	花样百出	c=1 d=1 t=17
+dhb 	存	c=1 d=1 t=53
+ed 	须	c=1 d=1 t=12
+edm 	须	c=2 d=1.90484 t=58
+efw 	肤	c=1 d=1 t=15
+ga 	开	c=1 d=1 t=8
+ghdm 	下面	c=1 d=1 t=5
+gjf 	理	c=1 d=1 t=50
+hc 	皮	c=1 d=1 t=14
+hcef 	皮肤	c=1 d=1 t=42
+ige 	清	c=1 d=1 t=49
+iyg 	注	c=1 d=1 t=1
+klj 	别	c=1 d=1 t=34
+lfhf 	置	c=2 d=1.90484 t=61
+mwpw 	内容	c=1 d=1 t=6
+o 	为	c=1 d=1 t=7
+pgh 	定	c=1 d=1 t=55
+q 	我	c=2 d=1.92312 t=36
+qvn 	急	c=1 d=1 t=30
+r 	的	c=1 d=1 t=44
+rhj 	掉	c=1 d=1 t=10
+rhjh 	掉	c=1 d=1 t=3
+ryna 	扩展	c=1 d=1 t=51
+sglf 	配置	c=1 d=1 t=43
+sgn 	配	c=2 d=1.90484 t=60
+tc 	么	c=1 d=1 t=48
+td 	知	c=1 d=1 t=21
+tdut 	知道	c=1 d=1 t=24
+tfq 	先	c=1 d=1 t=33
+thd 	自	c=1 d=1 t=54
+thfn 	怎	c=1 d=1 t=47
+toc 	释	c=1 d=1 t=2
+tp 	管	c=3 d=2.69938 t=59
+tve 	很	c=1 d=1 t=29
+vnu 	鼠	c=3 d=2.69938 t=57
+wgkb 	命	c=1 d=1 t=45
+wjg 	但	c=1 d=1 t=31
+wq 	你	c=2 d=1.97531 t=32
+wqr 	斧	c=1 d=1 t=18
+wrrg 	信手拈来	c=1 d=1 t=19
+wyc 	令	c=1 d=1 t=46
+xef 	缓	c=1 d=1 t=52
+ynk 	启	c=1 d=1 t=9
+yq 	义	c=1 d=1 t=56
